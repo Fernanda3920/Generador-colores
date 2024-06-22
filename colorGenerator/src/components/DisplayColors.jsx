@@ -1,5 +1,6 @@
 import SingleColor from "./SingleColor";
 
+
 const DisplayColors = ({ list }) => {
     return (
         <div className="colors-box">
