@@ -12,6 +12,7 @@ function App() {
   console.log(list);
   return (
     <>
+    <h1>Te amo mi vida</h1>
       <FormColor setList={setList}></FormColor>
       <DisplayColors list = {list}/>
     </>
