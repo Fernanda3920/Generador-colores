@@ -12,7 +12,6 @@ function App() {
   console.log(list);
   return (
     <>
-    
       <FormColor setList={setList}></FormColor>
       <DisplayColors list = {list}/>
     </>
